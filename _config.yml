@@ -1,5 +1,7 @@
 title: <p align="center"> Binay Prasad Yadab </p>
-logo: /assets/img/Passport Size photo-min.jpg
+logo: <img src="/assets/img/Passport Size photo-min.jpg",
+     width="400",
+     height="500" />
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
